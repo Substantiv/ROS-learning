@@ -1,0 +1,2 @@
+hello_world
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=E:\Github\ROS-learning\catkin_ws\devel -DCMAKE_INSTALL_PREFIX=E:\Github\ROS-learning\catkin_ws\install -G Ninja
